@@ -1,5 +1,8 @@
 # How to run the App
 
+Create a database `fullstack` in MySql database with command:
+`create database fullstack`
+
 Install maven from the following link:
 [https://maven.apache.org/download.cgi](https://maven.apache.org/download.cgi)
 
